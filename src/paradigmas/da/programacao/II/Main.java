@@ -39,6 +39,7 @@ public class Main {
     System.out.println("    - Nome: " + calculadoraImpostoAsia.getNome());
     System.out.println("    - Preço: 400,00 = " + calculadoraImpostoAsia.calculaImposto("Asia" , 400f));
 
-
+    System.out.println(calculadoraImpostoAmerica);
+    System.out.println(calculadoraImpostoEuropa);
     }
 }
